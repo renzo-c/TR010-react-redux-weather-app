@@ -1,0 +1,8 @@
+{
+  "name": "TR010-react-redux-weather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/renzo-c/TR010-react-redux-weather-app.git",
+  "author": "rcnavarrop <rcnavarrop@gmail.com>",
+  "license": "MIT"
+}
