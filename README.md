@@ -15,6 +15,6 @@ See the <a href="https://grid-photo-gallery.netlify.app" target="_blank">Demo</a
 - axios: For HTTP post requests
 - react-sparklines: To draw the charts
 ## Tools:
-- OpenWeather API: To get temperature, pression, and humidity values of each city
+- OpenWeather API: To get temperature, pressure, and humidity values of each city
 - Goggle Maps API: To show each city map
 - Hook useRef: To get the div in which the maps is going to be rendered
