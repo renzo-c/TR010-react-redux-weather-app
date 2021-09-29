@@ -2,7 +2,7 @@
 
 This is a proof of concept that implements a basic weather forecast by using redux as the state manager 
 
-See the <a href="https://grid-photo-gallery.netlify.app" target="_blank">Demo</a>
+See the <a href="https://tr010-react-redux-weather-app.netlify.app/" target="_blank">Demo</a>
 
 <p align="center">
   <img align="center" width="295" height="180" src="/src/utils/images/screen.png">
